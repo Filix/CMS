@@ -1,0 +1,6 @@
+.DS_Store
+user_guide/
+favicon.ico
+uploads/
+/application/config/config.php
+/application/config/database.php
